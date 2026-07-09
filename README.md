@@ -16,3 +16,15 @@ The files in this repository are automatically organized by the extension, typic
 
 ---
 *Always learning, always building.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/rishabhhag/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/rishabhhag/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
