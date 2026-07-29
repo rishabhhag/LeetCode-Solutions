@@ -7,7 +7,7 @@ class Solution {
         // sorting the array helps
         Arrays.sort(nums); 
 
-        // 2. i shouldnt be on same as left and right pointer soo settign its limit
+        // 2. i shouldnt be on same as left and right pointer soo setting its limit
         for (int i = 0; i < nums.length - 2; i++) {
             
             //once a triplet is found with 1 it shouldnt duplicate it
