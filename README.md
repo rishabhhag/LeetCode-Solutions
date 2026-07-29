@@ -24,6 +24,7 @@ The files in this repository are automatically organized by the extension, typic
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rishabhhag/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/rishabhhag/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/rishabhhag/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishabhhag/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/rishabhhag/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
@@ -34,6 +35,7 @@ The files in this repository are automatically organized by the extension, typic
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/rishabhhag/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/rishabhhag/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishabhhag/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/rishabhhag/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
@@ -47,5 +49,6 @@ The files in this repository are automatically organized by the extension, typic
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/rishabhhag/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/rishabhhag/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
